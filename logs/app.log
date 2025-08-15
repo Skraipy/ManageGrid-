@@ -1,0 +1,9 @@
+2025-08-15 19:38:19,313 INFO  [main] oop.BookList.App: Приложение запущено
+2025-08-15 19:38:28,413 INFO  [pool-1-thread-2] oop.BookList.App: Начинается загрузка данных из XML.
+2025-08-15 19:38:30,023 WARN  [pool-1-thread-2] oop.BookList.App: Пользователь отменил загрузку файла.
+2025-08-15 19:38:35,845 INFO  [pool-1-thread-3] oop.BookList.App: Начинается сохранение данных в XML.
+2025-08-15 19:38:36,910 WARN  [pool-1-thread-3] oop.BookList.App: Пользователь отменил сохранение файла.
+2025-08-15 19:38:42,345 DEBUG [AWT-EventQueue-0] oop.BookList.App: Добавлена пустая строка в активную вкладку: 0
+2025-08-15 19:39:14,720 INFO  [AWT-EventQueue-0] oop.BookList.App: Начинается загрузка данных из XML.
+2025-08-15 19:39:15,811 WARN  [AWT-EventQueue-0] oop.BookList.App: Пользователь отменил загрузку файла.
+2025-08-15 19:39:41,749 INFO  [main] oop.BookList.App: Приложение запущено
