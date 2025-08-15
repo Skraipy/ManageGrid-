@@ -24,7 +24,10 @@ java -jar target/BookList-0.0.1-SNAPSHOT.jar
 ```
 # Структура проекта после сборки
 
-1. BookList/
+1. ManageGrid/
+    - doc/
+    - img/
+    - logs/
     - src/
         - main/
           - java/oop/BookList/  # Исходный код
@@ -51,4 +54,4 @@ java -jar target/BookList-0.0.1-SNAPSHOT.jar
    ```
 3. Установка Java
    - скачайте JDK [здесь](https://adoptium.net/)
-## Если вас интересуют детали, полная версия доступна в документе Word [здесь]() 
+## Если вас интересуют детали, полная версия доступна в документе Word [здесь](https://github.com/Skraipy/ManageGrid-/tree/main/doc) 
